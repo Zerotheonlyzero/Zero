@@ -7,6 +7,6 @@ contract Manager {
 	}
 
 	function uniswapDepositAddress() public pure returns (address) {
-		return 0x4e0D3281841523a2a97ab7Bc530600112ca9f61A;
+		return 0xF0Ec5dB1314c41886bDD83d18f3C644b733C48A4;
 	}
 }
